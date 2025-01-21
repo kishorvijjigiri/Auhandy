@@ -1,0 +1,76 @@
+.mainloc{
+    background-color: blue;
+    text-align: center;
+    padding: 30px;
+}
+.conus h1{
+    color: orange;
+}
+.conus p{
+    color: white;
+}
+.aboutquote h2{
+    text-align: center;
+}
+input[type="text"] {
+    padding: 10px 80px;
+}
+input[type="email"] {
+    padding: 10px 80px;
+}
+input[type="phone"] {
+    padding: 10px 80px;
+}
+.dsn input{
+    padding: 40px 80px;
+    margin-bottom: 30px;
+}
+.button {
+    background-color: orange;
+    padding: 10px 30px;
+    color: white;
+    border: 0px;
+}
+.aboutquote{
+    border: 1px solid rgb(166, 158, 158);
+    padding: 10px 220px;
+    margin: 50px 0px 20px;
+}
+.locat ul li {
+    list-style: none;
+    text-align: center;
+}
+.locat ul li a{
+    text-decoration: none;
+    color: black;
+}
+home-lg-alt:before, .fa-home:before, .fa-house:before {
+    content: "\f015";
+    color: blue;
+}
+.fa-mobile-android:before, .fa-mobile-phone:before, .fa-mobile:before {
+    content: "\f3ce";
+    color: blue;
+}
+.fa-google:before {
+    content: "\f1a0";
+    padding: 20px;
+    color: blue;
+}
+.fa-square-twitter:before, .fa-twitter-square:before {
+    content: "\f081";
+    color: blue;
+}
+.fa-facebook:before {
+    content: "\f09a";
+    color: blue;
+}
+ul {
+    padding: 41px 10px 10px 10px;
+}
+/* element.style {
+    background-color: orange;
+    padding: 10px 30px;
+    color: white;
+    border: 0px;
+} */

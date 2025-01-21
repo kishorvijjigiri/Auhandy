@@ -1,0 +1,183 @@
+.navigation ul li{
+    display: inline;
+    list-style: none;
+    margin-right: 10px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.active{
+    color: red !important;
+}
+.navigation ul li a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+.top{
+    /* display: flex;
+    justify-content: space-between; */
+    align-items: center;
+}
+.top p{
+    padding-top: 10px;
+}
+.navigation ul {
+    padding-top: 14px;
+}
+.card-body {
+    text-align: center;
+}
+.bottum{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.headertopmain{
+    background-color: rgb(231, 223, 223);
+}
+.headerbottommain {
+    padding: 10px 0px;
+}
+.mainsec{
+    background-color: rgb(57, 57, 235);
+    padding: 50px;
+}
+.mainsec p{
+    color: white;
+}
+.fa-twitter:before {
+    content: "\f099";
+    margin: 10px;
+}
+.fa-youtube:before {
+    content: "\f167";
+    margin-left: 10px;
+}
+.imgsec {
+    padding: 26px 0px;
+    background-color: #e1dede;
+}
+.maindetails {
+    padding: 30px 0px 20px 0px;
+    background-color: blue;
+    color: white;
+}
+.thankyou{
+    text-align: center;
+}
+.details ul li{
+    list-style: none;
+    margin: 10px;
+}
+.details ul li a{
+    color: white;
+    text-decoration: none;
+}
+.fbuttom{
+    background-color:  rgb(9, 9, 80);
+    color: white;
+    margin-bottom: -16px;
+}
+.hi{
+    display: flex;
+    margin-left: 43px;
+}
+.hello{
+    display: flex;
+}
+.hi h4{
+    padding: 15px 5px 0px 5px;
+}
+.discount h5{
+    margin: -14px 0px 14px 59px;
+}
+.hello h4{
+    color: gold;
+}
+.hello h6{
+    margin-top: 5px;
+}
+.discount h1{
+    color: gold;
+}
+.fa-mobile-android-alt:before, .fa-mobile-screen:before {
+    content: "\f3cf";
+    margin-right: 30px;
+    color: gold;
+}
+.fa-location-dot:before {
+    content: "\f3c5";
+    margin-right: 30px;
+    color: gold;
+}
+.fa-envelope:before {
+    content: "\f0e0";
+    margin-right: 26px;
+    margin-left: 0px;
+    color: gold;
+}
+.fa-clock-four:before, .fa-clock:before{
+    content: "\f017";
+    margin-right: 26px;
+    color: gold;
+}
+.fa-chevron-right:before {
+    content: "\f054";
+    margin-right: 10px;
+    color: gold;
+}
+.discount {
+    margin: 50px;
+    border: dotted 1px;
+    padding: 19px;
+}
+.aboutsec{
+    padding: 60px 0px 20px 0px;
+}
+img.card-img-top{
+    width:50%;
+    margin-left: 69px;
+}
+.card{
+    margin-bottom: 40px;
+} 
+.details h3{
+        padding-left: 40px;
+}
+.mainsec h1{
+    color: orange;
+    text-transform: uppercase;
+}
+.icon{
+    padding: 12px 0px 0px 528px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}

@@ -1,0 +1,30 @@
+.headding{
+    text-align: center;
+    padding: 50px;
+}
+.aboutheadding{
+    background-color: blue;
+}
+.headding h1{
+    color: orange;
+}
+.headding p{
+    color: white;
+}
+.pagee{
+    text-align: center;
+    margin: 20px;
+}
+.pagee button{
+    background-color: orange;
+    color: white;
+    border: 0px;
+    padding: 5px 30px;
+    margin: 20px 0px 30px;
+}
+.pagee input{
+    margin: 10px;
+}
+.pagee h1{
+    color: blue;
+}

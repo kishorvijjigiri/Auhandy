@@ -1,0 +1,259 @@
+.top p{
+    /* display: flex;
+    justify-content: space-between; */
+    margin-top: 10px;
+}
+.bottum{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.active{
+    color: red !important;
+}
+.details ul li{
+    list-style: none;
+    margin: 10px;
+}
+.details ul li a{
+    color: white;
+    text-decoration: none;
+}
+.icon{
+    padding: 12px 0px 0px 528px;
+}
+.fa-chevron-right:before {
+    content: "\f054";
+    margin-right: 10px;
+    color: gold;
+}
+.fa-mobile-android-alt:before, .fa-mobile-screen:before {
+    content: "\f3cf";
+    margin-right: 10px;
+    color: gold;
+}
+.fa-location-dot:before {
+    content: "\f3c5";
+    margin-right: 10px;
+    color: gold;
+}
+.fa-envelope:before {
+    content: "\f0e0";
+    margin-right: 10px;
+    margin-left: 0px;
+    color: gold;
+}
+.fa-clock-four:before, .fa-clock:before{
+    content: "\f017";
+    margin-right: 10px;
+    color: gold;
+}
+.details h3{
+    margin-left: 41px;
+    color: white;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+.qqq{
+    margin-left: 25px;
+}
+.discount h1{
+    color: gold;
+}
+/* .fa-regularenvelope:before {
+    content: "\f0e0";
+    margin-right: 26px;
+} */
+.fa-youtube:before {
+    content: "\f167";
+    margin-left: 10px;
+}
+.fa-twitter:before {
+    content: "\f099";
+    margin: 10px;
+}
+/* .fa-envelope:before {
+    content: "\f0e0";
+    margin: 10px;
+} */
+.hi{
+    display: flex;
+    margin-left: 38px;
+}
+.hello{
+    display: flex;
+    margin-right: -20px;
+}
+.hi h4{
+    padding: 15px 5px 0px 5px;
+}
+.discount h5{
+    margin:  -12px 0px 18px 51px;
+}
+.hello h4{
+    color: gold;
+}
+.hello h6{
+    margin-top: 6px;
+}
+.navigation ul li{
+    display: inline;
+    list-style: none;
+    margin-right: 10px;
+}
+.navigation{
+    margin-top: 10px;
+}
+.button ul li a{
+    text-decoration: none;
+    color: black;
+}
+.box1 ul li a{
+    color: white;
+}
+.fa-cog:before, .fa-gear:before {
+    content: "\f013";
+    padding: 0px 10px 0px 10px;
+}
+.fa-plug:before {
+    content: "\f1e6";
+    padding: 0px 10px 0px 10px;
+}
+.fa-droplet:before, .fa-tint:before {
+    content: "\f043";
+    padding: 0px 10px 0px 10px;
+}
+.fa-paint-brush:before, .fa-paintbrush:before {
+    content: "\f1fc";
+    padding: 0px 10px 0px 10px;
+}
+fa-home-alt:before, .fa-home-lg-alt:before, .fa-home:before, .fa-house:before {
+    content: "\f015";
+    padding: 0px 10px 0px 10px;
+}
+.fa-cubes:before {
+    content: "\f1b3";
+    padding: 0px 10px 0px 10px;
+}
+.fa-leaf:before {
+    content: "\f06c";
+    padding: 0px 10px 0px 10px;
+}
+.leftimg img{
+    padding-left: 31px;
+}
+.button ul li{
+   
+    list-style: none;
+}
+.navigation ul li a{
+    text-decoration: none;
+}
+.mainsec{
+    text-align: center;
+    background-color: rgb(57, 57, 235);
+    padding: 60px;
+}
+.mainsec h1{
+    color: orange;
+}
+.aboutsec{
+   /* display: flex;
+   justify-content: space-between; */
+   padding: 56px 10px;
+}
+.headertopmain{
+    background-color: #e6e0e0;
+}
+/* .button a {
+    border: 1px solid;
+} */
+.maindetails {
+    background-color: blue;
+}
+.box1{
+    border: solid 1px;
+    background-color: rgb(19, 19, 103);
+    /* color: white;     */
+    padding: 10px;
+    margin: 10px 0px;
+}
+.box2{
+    border: solid 1px; 
+    padding: 10px;
+    margin: 10px 0px;
+}
+.box3{
+    border: solid 1px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.box4{
+    border: solid 1px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.box5{
+    border: solid 1px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.box6{
+    border: solid 1px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.box7{
+    border: solid 1px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.contact ul a{
+    text-decoration: none;
+    color: black;
+}
+.contact ul{
+    list-style: none;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+.thankyou{
+    text-align: center;
+}
+.details ul li{
+    list-style: none;
+    margin: 10px;
+}
+.details ul li a{
+    color: white;
+    text-decoration: none;
+}
+/* .maindetails{
+    background-color: rgb(66, 63, 63);
+    color: white;
+} */
+.fbuttom{
+    background-color: rgb(9, 9, 80);
+    color: white;
+    margin-bottom: -16px;
+}
+.right {
+    padding: 0px 0px 0px 65px;
+}
+.discount{
+    margin: 50px;
+    border: dotted 1px;
+    padding: 19px;
+    color: white;
+}

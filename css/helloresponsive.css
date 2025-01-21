@@ -1,0 +1,39 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    img.card-img-top {
+        width: 50%;
+        margin-left: 75px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    img.card-img-top {
+        width: 50%;
+        margin-left: 121px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    img.card-img-top {
+        width: 50%;
+        margin-left: 41px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    img.card-img-top {
+        width: 50%;
+        margin-left: 55px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    img.card-img-top {
+        width: 50%;
+        margin-left: 75px;
+    }
+}

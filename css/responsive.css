@@ -1,0 +1,308 @@
+
+
+@media only screen and (max-width: 600px) { 
+    .jestifycontent {
+        display: inherit !important;
+    }
+    .repairhouse {
+       width: 100%;
+    }
+    .plumbing {
+        width: 100%;
+    }
+    .favoriteimg {
+        margin-left: 0px;
+    }
+    .electrical {
+       width: 100%;
+    }
+    .repairs {
+        width: 100%;
+    }
+    .aboutcontacts {
+        padding: 93px 0px 26px 0px;
+    }
+    .servicesection{
+        background-color: black;
+    }
+    .giftfor {
+        padding: 0px 0px 0px 54px;
+    }
+    .contactb {
+        padding: 20px 0px 20px 0px;
+    }
+    .projectsnames {
+        padding: 0px 0px;
+    }
+    .dsn input {
+        padding: 13px 83px 146px 20px;
+        margin: 10px;
+    }
+    .icon {
+        padding: 0px 0px 0px 0px;
+    }
+    /* .projectsnames h6 {
+        text-align: center;
+    } */
+    .serviceimg img{
+        width: 100%;
+    }
+    .serviceimg {
+        padding: 10px 0px 44px 0px;
+    }
+    .discount {
+        margin: 0px;
+    }
+    .expert {
+        padding: 23px 0px 21px 28px;
+        margin-top: 0px;
+    }
+    .contactb {
+        padding: 20px 0px 20px 81px;
+    }
+    .choose {
+        margin: 25px 11px;
+    }
+    .picture {
+        padding: 0px 0px;
+    }
+    .hhh {
+        padding-left: 0px;
+    }
+    .maincertified img{
+        padding: 10px 0px;
+    }
+    /* .discount h5 {
+        margin: -12px 0px 18px 131px;
+    }
+    .hi {
+        display: flex;
+        margin-left: 129px;
+    }
+    .hello {
+    display: flex;
+    margin-left: 88px;
+    } */
+    
+ }
+ @media only screen and (min-width: 600px) { 
+    .icon {
+        padding: 0px 0px 0px 408px;
+        margin-top: -37px;
+    }
+    .maincertified img{
+        padding: 10px 0px;
+    }
+    .expert {
+        padding: 40px 50px 34px 0px;
+        margin-top: 0px;
+    }
+    .contactb {
+        padding: 10px 0px 20px 0px;
+    }
+    /* .favorite {
+        margin-left: -32px;
+    } */
+    .giftfor {
+        padding: 0px 0px 0px 56px;
+    }
+    .hhh {
+        margin-left: -67px;
+    }
+    .favorite {
+        margin-left: -57px;
+    }
+    .projectsnames {
+        padding: 0px 0px;
+    }
+    .aboutcontacts {
+        padding: 93px 0px 0px 0px;
+    }
+    /* .dsn input {
+        padding: 13px 267px 146px 20px;
+    }
+    .nands input {
+        padding: 13px 20px;
+    }
+    .mandn input {
+        padding: 13px 20px;
+    } */
+    .hello {
+        display: flex;
+        margin-left: 41px;
+    }
+    .discount h5 {
+        margin: -6px 0px 18px 83px;
+    }
+    .hi {
+        display: flex;
+        margin-left: 79px;
+    }
+ }
+ @media only screen and (min-width: 768px) {
+    .icon {
+        padding: 12px 0px 0px 228px;
+        margin: 0px;
+    }
+    .contactb {
+        padding: 20px 0px 20px 166px;
+    }
+    .expert {
+        padding: 116px 0px 0px 0px;
+        margin-top: -29px;
+    }
+    .picture {
+        padding: 0px 0px 0px 0px;
+    }
+    .serviceimg {
+        padding: 10px 0px 44px 66px;
+    }
+    .picture {
+        padding: 100px 0px 0px 0px;
+    }
+    .serviceimg img{
+        margin-left: 76px;
+    }
+    .aboutcontacts {
+        padding: 54px 0px 0px 0px;
+    }
+    .discount {
+        margin: 14px;
+    }
+    .hello {
+        display: flex;
+        margin-left: -1px;
+    }
+    .discount h5 {
+        margin: -12px 0px 18px 52px;
+    }
+    .hi {
+        display: flex;
+        margin-left: 42px;
+    }
+    .details {
+        padding: 20px 0px 0px 0px;
+    }
+}
+ @media only screen and (min-width: 992px) {
+    .jestifycontent {
+        display: inherit !important;
+    }
+    .icon {
+        padding: 12px 0px 0px 348px;
+        margin: 0px;
+    }
+    .dot {
+        margin: 0px 0px 0px -37px;
+    }
+    .not{
+        margin-left: -55px;
+    }
+    .repairhouse {
+       width: 100%;
+    }
+    .plumbing {
+        width: 100%;
+    }
+    .electrical {
+       width: 100%;
+    }
+    .repairs {
+        width: 100%;
+    }
+    .expert {
+        padding: 116px 0px 0px 0px;
+        margin-top: 49px;
+    }
+    .picture {
+        padding: 0px 0px 0px 0px;
+    }
+    .serviceimg {
+        padding: 10px 64px 44px 64px;
+    }
+    .serviceimg img{
+        width: 49%;
+        margin-left: 0px;
+    }
+    .aboutcontacts {
+        padding: 90px 0px 0px 0px;
+    }
+    .discount {
+        margin: 91px 0px 0px 0px ;
+    }
+    .contactb {
+        padding: 20px 0px 20px 286px;
+    }
+    .electrical {
+        padding: 48px 42px 78px 42px;
+    }
+    .plumbing {
+        padding: 48px 42px 56px 42px;
+    }
+    .hello {
+        display: flex;
+        margin-left: -10px;
+    }
+    .details {
+        padding: 20px 0px 0px 40px;
+    }
+ }
+ @media only screen and (min-width: 1200px) {
+    .icon {
+        padding: 12px 0px 0px 528px;
+        margin: 0px;
+    }
+    .picture {
+        padding: 0px 0px 0px 0px;
+    }
+    .expert {
+        padding: 116px 0px 0px 0px;
+        margin-top: 180px;
+    }
+    .serviceimg {
+        padding: 10px 0px 44px 0px;
+    }
+    .serviceimg img {
+        width: 33%;
+        margin-left: 0px;
+    }
+    .aboutcontacts {
+        padding: 152px 0px 0px 121px;
+    }
+    .discount {
+        margin: 66px 31px;
+    }
+    .contactb {
+        padding: 20px 0px 20px 466px;
+    }
+    .electrical {
+        padding: 48px 42px 48px 42px;
+    }
+    .plumbing {
+        padding: 48px 42px 48px 42px;
+    }
+    .details {
+        padding: 20px 0px 0px 40px;
+    }
+
+ }
+
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}

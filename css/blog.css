@@ -1,0 +1,130 @@
+.mainn{
+    text-align: center;
+}
+.mainn h1{
+    color: orange;
+}
+.mainn p{
+    color: white;
+}
+.mainus{
+    background-color: blue;
+    padding: 30px;
+}
+.years{
+    text-align: center;
+}
+.yearsmain{
+    background-color: rgb(97, 88, 88);
+    padding: 40px 0px;
+}
+.years h1{
+    color: orange;
+}
+.years p{
+    color: white;
+}
+.fa-crown:before {
+    content: "\f521";
+    color: white;
+}
+.fa-bell:before {
+    content: "\f0f3";
+    color: white;
+}
+.fa-heart:before {
+    content: "\f004";
+    color: white;
+}
+.fa-medal:before {
+    content: "\f5a2";
+    color: white;
+}
+.card{
+    text-align: center;
+}
+.team h4{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.card-body{
+    background-color: blue;
+    color: white;
+}
+.mainteam {
+    padding: 30px 0px;
+}
+.experiance{
+    background-color: blue;
+    padding: 20px 0px;
+}
+.mainexperiance p {
+    margin-top: 15px !important;
+    margin-bottom: 0px !important;
+}
+.mainexperiance h5 {
+    padding-top: 0px;
+}
+.you{
+    color: white;
+}
+
+.hoverrrr {
+    position: relative;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+img.card-img-top {
+    width: 100%;
+    margin-left: 0px;
+}
+  
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 101.5%;
+    transition: 1.5s ease;
+    opacity: 0;
+    overflow: hidden;
+    color: white;
+    font-size: 23px;
+    padding: 0px 0px;
+    text-align: center;
+    height: 0;
+    left: 0;
+  right: 0;
+}
+.ions {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  
+  .hoverrrr:hover .overlay {
+    opacity: 1;
+    height: 100%;
+    width: 101.5%;
+  }
+  .fa-square-twitter:before, .fa-twitter-square:before {
+    content: "\f081";
+    padding-right: 20px;
+}
+.fa-google:before {
+    content: "\f1a0";
+    padding: 20px;
+}

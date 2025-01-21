@@ -1,0 +1,472 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.active{
+    color: red !important;
+}
+h2{
+    text-transform: uppercase;
+}
+.navigation ul li {
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+}
+.navigation ul li a{
+    text-decoration: none;
+}
+.navigation{
+    padding: 27px 0px 20px 181px;
+    text-transform: uppercase;
+}
+.picture{
+    padding: 0px 50px 0px 100px;
+}
+.projectsnames{
+    display: flex;
+    justify-content: space-around;
+    /* padding: 0px 300px; */
+}
+.mainprojects h2 {
+    padding-bottom: 15px;
+}
+.serviceimg {
+    padding: 10px 0px 44px 60px;
+}
+.aboutquote button{
+    background-color: orange;
+    padding: 11px 50px;
+    margin: 7px 10px 10px 10px;
+    color: white;
+    border: 0px;
+}
+.contacta button{
+    background-color: orange;
+    padding: 7px 30px;
+    color: white;
+    border: 0px;
+}
+.contactaa button{
+    padding: 7px 30px;
+    background-color: rgb(46, 43, 43);
+    color: white;
+    border: 0px;
+}
+.contactb button{
+    background-color: orange;
+    padding: 7px 15px;
+    color: white;
+    border: 0px;
+}
+.contactb {
+    padding: 20px 0px 20px 466px;
+}
+.mainexperiance h5{
+    padding-top: 22px;
+}
+.but{
+    display: flex;
+}
+.servicesection button{
+    background-color: darkorange;
+    display: block;
+    width: 160px;
+    height: 35px;
+    margin: 0 auto;
+    color: white;
+    border: 0px;
+}
+.servicesection {
+    background-color: black;
+    color: white;
+    padding: 50px 0px;
+}
+.jestifycontent {
+    /* display: flex;
+    justify-content: space-evenly; */
+    padding: 50px 10px 65px 10px;
+    text-align: center;
+}
+.servicesection h2{
+text-align: center;
+}
+.aboutprojects h2{
+    text-align: center;
+}
+.contactus{
+    background-color: rgb(213, 208, 203);
+    padding: 50px 0px;
+}
+/* .maincontact{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 40px;
+} */
+.certifiedsection{
+    background-color: white ;
+    padding: 30px 0px;
+}
+iframe {
+    padding-top: 11px;
+}
+/* .maincertified{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+} */
+.solvingsection{
+    background-color: rgb(69, 66, 66);
+    color: white;
+}
+/* .repaieimg{
+    padding-right: 50px;
+} */
+/* .mainsolving{
+    display: flex;
+    justify-content: space-between;
+} */
+.maindetails{
+    background-color: rgb(66, 63, 63);
+}
+.s1  {
+    
+    transition: transform .2s;
+    margin: 0 auto;
+  }
+  
+  .s1:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.1); 
+  }
+  .ss1:hover{
+    background-color: blue;
+}
+.solvingsection button{
+    display: block;
+    width: 160px;
+    height: 30px;
+    margin: 0 auto;
+    background-color: orange;
+    display: initial;
+    color: white;
+    border: 0px;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 20px 0px 0px 40px;
+}
+.footersection footerbuttom{
+    text-align: center;
+}
+.fbuttom{
+    background-color: black;
+}
+.discount{
+    margin: 50px;
+    border: dotted 1px;
+    padding: 19px;
+}
+.thankyou p{
+    text-align: center;
+    color: white;
+    margin: 0px;
+}
+.sectionforchoose {
+   padding: 60px 0px;
+}
+.choose{
+    margin-left: 30px;
+}
+.mainchoose{
+    display: flex;
+    justify-content: space-between;
+}
+.division1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.devision2{
+    display: flex;
+    justify-content: space-evenly;   
+}
+.experiance{
+    background-color: rgb(227, 212, 212);
+}
+/* .mainexperiance{
+    display: flex;
+    justify-content: space-between;
+} */
+.experiance h3{
+    padding: 9px;
+}
+.hhh {
+    padding-left: 68px;
+}
+.aboutheadding{
+    background-color: rgb(46, 37, 37);
+    color: white;
+}
+/* .mainabout{
+    display: flex;
+    justify-content: space-between;
+} */
+/* .aboutimg{
+    padding-left: 60px;
+    margin-bottom: -5px;
+    padding-bottom: 5px;
+} */
+.bottum{
+    /* display: flex;
+    justify-content: space-between; */
+    background-color: white;
+}
+.icon{
+    padding: 12px 0px 0px 528px;
+    margin-top: 0px;
+}
+.top p{
+    margin-top: 10px;
+}
+.headertopmain{
+    background-color: rgb(231, 223, 223);
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+.logoimg{
+    padding: 15px 15px 15px 0px;
+}
+.expert{
+    padding: 166px 50px 166px 0px;
+    margin-top: 130px;
+}
+.easy{
+    display: flex;
+    justify-content: space-evenly;
+}
+.giftfor{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -55px;
+}
+.support{
+    display: flex;
+    justify-content: space-evenly;
+}
+.favorite{
+    display: flex;
+    justify-content: space-evenly;
+}
+.easyimg{
+    padding: 5px 10px 0px 0px;
+}
+.giftimg{
+    padding: 5px 10px 0px 0px;
+}
+.supportimg{
+    padding: 5px 10px 0px 0px;
+}
+.favoriteimg{
+    padding: 5px 10px 0px 0px;
+    margin-left: 60px;
+}
+.giftfor{
+    padding: 0px 0px 0px 55px;
+}
+.aboutcontacts{
+    padding: 93px 0px 93px 127px;
+}
+.contactus h2{
+    padding: 0px 0px 30px 0px;
+}
+.nands{
+    margin-right: 50px;
+}
+.mandn{
+    margin-right: 50px; 
+}
+.nands input{
+    padding: 13px 51px;
+}
+.mandn input{
+    padding: 13px 51px;
+}
+.ourlocation  {
+    margin-left: 33px;
+}
+.dsn input{
+    padding: 13px 389px 146px 20px;
+    margin: 10px;
+}
+.aboutprojects button{
+    text-align: center;
+    background-color: orange;
+    display: block;
+    width: 160px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    color: white;
+    border: 0px;
+}
+.aboutprojects{
+    padding: 40px 0px;
+}
+.expert p{
+    margin-top: -13px;
+}
+.choose p{
+    margin-top: -10px;
+}
+.repairs{
+    border-style: solid;
+    padding: 48px 42px;
+    border-color: blue;
+    margin: 10px;
+}
+.repairs img{
+    margin-bottom: 25px;
+}
+.electrical{
+    border-style: solid;
+    padding: 48px 42px;
+    border-color: blue;
+    margin: 10px;
+}
+.electrical img{
+    margin-bottom: 22px;
+}
+.plumbing{
+    border-style: solid;
+    padding: 48px 42px;
+    border-color: blue;
+    margin: 10px;
+}
+.repairhouse{
+    border-style: solid;
+    padding: 48px 42px;
+    border-color: blue;
+    margin: 10px;
+}
+.repairhouse img{
+    margin-bottom: 32px;
+}
+.fa-twitter:before {
+    content: "\f099";
+    margin: 10px;
+}
+.fa-envelope:before {
+    content: "\f0e0";
+    margin: 10px;
+}
+.repairs h4 {
+    padding: 10px 0px 0px 39px;
+}
+.plumbing h3{
+    margin-top: 50px;
+}
+.name{
+    margin: 10px;
+}
+.subject{
+    margin: 10px;
+}
+.mail{
+    margin: 10px;
+}
+.number{
+    margin: 10px;
+}
+.details ul li{
+    list-style: none;
+    margin: 10px;
+}
+.details ul li a{
+    color: white;
+    text-decoration: none;
+}
+.fa-chevron-right:before {
+    content: "\f054";
+    margin-right: 10px;
+    color: gold;
+}
+.fa-mobile-android-alt:before, .fa-mobile-screen:before {
+    content: "\f3cf";
+    margin-right: 30px;
+    color: gold;
+}
+.fa-location-dot:before {
+    content: "\f3c5";
+    margin-right: 30px;
+    color: gold;
+}
+.fa-envelope:before {
+    content: "\f0e0";
+    margin-right: 26px;
+    margin-left: 0px;
+    color: gold;
+}
+.fa-clock-four:before, .fa-clock:before{
+    content: "\f017";
+    margin-right: 26px;
+    color: gold;
+}
+.details h3{
+    margin-left: 41px;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+.qqq{
+    margin-left: 42px;
+}
+.discount h1{
+    color: gold;
+}
+.fa-regularenvelope:before {
+    content: "\f0e0";
+    margin-right: 26px;
+}
+.fa-youtube:before {
+    content: "\f167";
+    margin-left: 10px;
+}
+.hi{
+    display: flex;
+    margin-left: 38px;
+}
+.hello{
+    display: flex;
+    margin-right: -5px;
+}
+.hi h4{
+    padding: 15px 5px 0px 5px;
+}
+.discount h5{
+    margin:  -12px 0px 18px 51px;
+}
+.hello h4{
+    color: gold;
+}
+.hello h6{
+    margin-top: 6px;
+}
+input.form-control {
+    padding: 10px 0px;
+    margin: 0px 0px 10px 0px;
+}
+form {
+    padding-top: 12px;
+}
+button.btn.btn-primary {
+    margin-left: 0px;
+}
+.discription input{
+    padding: 10px 0px 100px 0px;
+}
+

@@ -1,0 +1,48 @@
+.projectsnames{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 200px;
+}
+.aboutprojects h2{
+    text-align: center;
+}
+.aboutprojects button{
+    text-align: center;
+    background-color: orange;
+    display: block;
+    width: 160px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    color: white;
+    border: 0px;
+}
+.aboutprojects{
+    padding: 40px 0px;
+}
+.serviceimg {
+    padding: 10px 0px 44px 0px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.headertopmain{
+    background-color: rgb(231, 223, 223);
+}
+.navigation ul li {
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+}
+.navigation ul li a{
+    text-decoration: none;
+}
+.navigation{
+    padding: 20px 0px 20px 20px;
+    text-transform: uppercase;
+}
+.bottum{
+    display: flex;
+    justify-content: space-between;
+}
